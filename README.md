@@ -2,7 +2,9 @@
 
 ## Summary
 
-This is a skeleton for web applications using [Sinatra][], a lightweight framework for building web applications in Ruby.
+We're going to build our first and very simple web application using
+[Sinatra][], a lightweight framework for building web
+applications in Ruby.
 
 Run `bundle` to install the necessary gems.  Note that this application uses Postgres for its database, not SQLite.  If there's a database-related error at any point grab a staff member to make sure the machine is configured correctly and Postgres is running.
 
